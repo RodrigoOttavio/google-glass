@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap");
 @font-face {
     font-family: 'Fontelogo';
-    src: url("/_fonts/bubblegum-sans-regular.otf");
+    src: url("/fonts/bubblegum-sans-regular.otf");
 }
 
 p {
@@ -37,7 +37,7 @@ body {
     border-bottom: 1px #606060 solid; /*1° largura da borda,2° cor da borda,3° formato da borda*/
     height: 150px;
 
-    background-image: url('_imagens/glass-logo-peq.jpg');
+    background-image: url('css/imagens/glass-logo-peq.jpg');
 
     background-repeat: no-repeat;
     background-position:  0px 80px;
