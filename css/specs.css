@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+#conteudo {
+    width: 1000px;
+    margin: auto;
+    
+   
+}
+
+#framespec {
+    width: 400px;
+    height: 300px;
+    border: none;
+    overflow: hidden;
+    
+    
+  
+}
+
+#framespec::-webkit-scrollbar {
+    display: none;
+}
